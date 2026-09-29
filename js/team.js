@@ -8,7 +8,7 @@
 
 const RESEARCH_TEAM = [
  "María Patrocinio Morrondo Pelayo",
- "Fernando Espero Fajardo",
+ "Fernando Esperón Fajardo",
  "Javier Millán Gasca",
  "Jonás Carmona Pírez"
 ];
